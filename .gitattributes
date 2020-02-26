@@ -1,0 +1,3 @@
+touch .gitattributes
+
+* linguist-language=R
